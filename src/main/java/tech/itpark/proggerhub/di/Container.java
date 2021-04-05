@@ -20,7 +20,5 @@
 //
 //    public void wire() {
 //        // definition -> object (map)
-//        // TODO: 1. Reflection API
-//        // TODO: 2. Проблема графа
 //    }
 //}
