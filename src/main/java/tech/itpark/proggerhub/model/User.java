@@ -13,7 +13,6 @@ public class User {
     private String avatarUrl;
     private String nickname;
     private String password;
-    private Set<String> roles; // Enum
-    // TODO: relation with videos
+    private Set<String> roles;
     private long created;
 }
